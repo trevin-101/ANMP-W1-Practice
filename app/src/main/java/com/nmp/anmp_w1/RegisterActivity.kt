@@ -9,4 +9,6 @@ class RegisterActivity : AppCompatActivity() {
         setContentView(R.layout.activity_register)
     }
     // register code here
+    // bleblebleeee
+    //hurahhhh
 }
